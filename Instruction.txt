@@ -1,0 +1,33 @@
+# Modifier le nom du projet dans tout le projet : 
+
+. ouvrir le fichier .env et modifier la valeur du APP_NAME
+
+
+
+# Comment ça marche :
+
+1. Charger la base de donnée
+2. Modifier les informations de connexion
+
+
+
+# Information pour Paypal
+
+ . Le code du client_id utiliser est un coe de test.
+
+ce code peu etre changer... voir dans le code du Javascript sur la page
+
+# Compte de test : 
+    - Email : sb-91pi31597213@personal.example.com
+    - Mot de passe :  ,n(=!Jk9
+
+
+
+* Pour avoir un administrateur : 
+   - creer un compte sur l'interface
+    - modifier dans la base de donnée son role en 3
+
+
+ 1 - Patient 
+ 2 - Medecin
+ 3 - Admin
